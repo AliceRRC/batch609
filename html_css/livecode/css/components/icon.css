@@ -1,0 +1,26 @@
+.icon {
+  color: rgb(200, 200, 200);
+  font-size: 12px;
+  margin: 1px;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+  margin: 0;
+}
+
+.box-icon {
+    width: 120px;
+    height: 32px;
+    margin-left: 93px;
+    margin-top: 5px;
+}
+
+li {
+  color: rgb(200, 200, 200);
+}
